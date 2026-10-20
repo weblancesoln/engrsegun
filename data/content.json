@@ -1,0 +1,239 @@
+{
+  "brand": {
+    "name": "Segun B. Adegoke",
+    "fullName": "Segun Adegoke Babatunde",
+    "titles": ["visionary", "social entrepreneur"],
+    "roles": "Founder and CEO of Baay Projects and Baay Agro",
+    "website": "segunadegoke.com",
+    "logo": "logo.png"
+  },
+  "hero": {
+    "name": "SEGUN B. ADEGOKE",
+    "badge1": "visionary",
+    "badge2": "social entrepreneur",
+    "bioIntro": "Segun Adegoke is a visionary social entrepreneur and a changemaker reshaping Nigeria’s real estate and agricultural landscapes.\n\nAs the founder and CEO of Baay Projects and Baay Agro, Segun leads with a passion for sustainable development and a commitment to excellence and impact, merging integrity with innovation to create lasting value in the community.\n\nHis work has earned him recognition, including a spot in Business Elites Africa’s 40 Under 40, highlighting his dedication to setting new standards for the industries he champions. Not leaving out recognitions as a Ban Ki-moon changemaker, Lord’s Achievers 2024 Awardee, and Tony Elumelu Awardee, amongst others.",
+    "scrollPrompt": "SCROLL DOWN"
+  },
+  "biography": {
+    "heading": "Biographic page: Biography",
+    "subtitle": "visionary",
+    "subtitle2": "social entrepreneur",
+    "introduction": "Segun Adegoke is a visionary social entrepreneur and a changemaker reshaping Nigeria’s real estate and agricultural landscapes.\n\nAs the founder and CEO of Baay Projects and Baay Agro, Segun leads with a passion for sustainable development and a commitment to excellence and impact, merging integrity with innovation to create lasting value in the community.\n\nHis work has earned him recognition, including a spot in Business Elites Africa’s 40 Under 40, highlighting his dedication to setting new standards for the industries he champions. Not leaving out recognitions as a Ban Ki-moon changemaker, Lord’s Achievers 2024 Awardee, and Tony Elumelu Awardee, amongst others.",
+    "earlyLife": "Segun’s journey in entrepreneurship began at a young age, inspired by his grandmother’s Black soap trade. That early exposure instilled in him an understanding of hard work, discipline, and integrity and a passion for business that would later fuel his success in both real estate and agriculture.\n\nToday, he leads Baay Projects and Baay Realty—a trailblazing construction and real estate company, respectively—and Baay Agro—a venture focused on revolutionizing agribusiness to support rural development centered on smallholder farmers’ support to contribute their quota to Africa’s food security and economic growth.",
+    "professionalJourney": "Segun’s professional journey spans multiple industries, including real estate, technology, and finance. He began his career as an Agro-tech expert, where he quickly demonstrated his strategic insight and leadership abilities. Rising through the ranks, he has since become a trusted advisor to senior executives and has served as Managing Director of Baay Agro, as well as Baay Projects, where he leads with a commitment to transparency, accountability, and innovation.",
+    "visionValues": "Driven by a commitment to impact communities, sustainable development, and passion for success, Segun envisioned fostering innovative spaces where communities can thrive, not limited to residential real estate but also in commercial and hospitality realty.\n\nAs a certified civil and environmental engineer, he believes in building more than just structures; each project by Baay Projects is crafted to enhance lifestyles, empower communities, and contribute to sustainable development.\n\nThrough Baay Agro, he aims to modernize Nigeria’s agricultural sector with adequate support to smallholder farmers and women in agriculture, who contribute to over 65% of the local agricultural production in Africa, bridging the gap between local producers and global markets to unlock opportunities for farmers and improve food production practices.",
+    "politicalAcumen": "Segun Adegoke is a highly respected figure in public-private partnerships (PPP), known for his political acumen and ability to align private sector innovation with public policy goals. With a keen understanding of governance, Segun has played a pivotal role in creating sustainable, high-impact initiatives that benefit both the economy and society. His collaborative approach has led to successful partnerships in areas such as urban development and affordable housing, fostering projects that deliver long-term value and promote inclusive growth. Through these efforts, Segun has solidified his reputation as a trusted partner in advancing community welfare and responsible economic development."
+  },
+  "awards": {
+    "pageHeading": "Awards",
+    "pageIntroduction": "Segun Adegoke, honored with the Business Elites Africa 40 Under 40, is recognized for driving innovation and excellence in real estate and agriculture.",
+    "items": [
+      {
+        "id": "award-1",
+        "year": "2024",
+        "title": "BUSINESS ELITES AFRICA 40 UNDER 40",
+        "description": "Acknowledged as one of Africa’s top young leaders in real estate and agriculture, recognized for breaking barriers and innovating in industries critical to Nigeria’s development.",
+        "image": "assets/images/business-elites-magazine.jpg"
+      },
+      {
+        "id": "award-2",
+        "year": "2024",
+        "title": "LORDS AWARD",
+        "description": "Celebrating his outstanding contributions to Nigeria’s economic landscape, particularly in sustainable real estate and agriculture.",
+        "image": "assets/images/portrait-hero.jpg"
+      },
+      {
+        "id": "award-3",
+        "year": "2023",
+        "title": "BAN-KI MOON CHANGEMAKER",
+        "description": "Elevating the voice of women in Africa by the Center for Global Citizens.",
+        "image": "assets/images/coy18-podium.jpg"
+      }
+    ]
+  },
+  "repertoire": {
+    "pageHeading": "Repertoire",
+    "sectionHeading": "SEGUN B. ADEGOKE IN over forty PUBLICATIONS in his repertoire",
+    "suppliedImages": [
+      {
+        "caption": "SEGUN ADEGOKE BABATUNDE - CEO BAAY PROJECTS",
+        "url": "https://segunadegoke.com/wp-content/uploads/2025/02/800_1013-819x1024.jpg",
+        "local": "assets/images/800_1013-819x1024.jpg"
+      },
+      {
+        "caption": "MD",
+        "url": "https://segunadegoke.com/wp-content/uploads/2024/12/MD-819x1024.jpg",
+        "local": "assets/images/MD-819x1024.jpg"
+      },
+      {
+        "caption": "Segun Adegoke CEO OF BAAYPROJECTS",
+        "url": "https://segunadegoke.com/wp-content/uploads/2024/12/MD3.jpg",
+        "local": "assets/images/segun-adegoke-ceo.jpg"
+      },
+      {
+        "caption": "EUROPE",
+        "url": "https://segunadegoke.com/wp-content/uploads/2024/12/EUROPE-768x1024.jpg",
+        "local": "assets/images/europe-grand-hotel.jpg"
+      },
+      {
+        "caption": "PACIFIC APARTMENT",
+        "url": "https://segunadegoke.com/wp-content/uploads/2024/12/pacific-apartments_3-1024x576.jpg",
+        "local": "assets/images/pacific-apartments.webp"
+      }
+    ],
+    "publications": [
+      {
+        "id": "pub-01",
+        "number": "01",
+        "outlet": "TRIBUNE",
+        "title": "WHY I STARTED MY OWN COMPANY",
+        "url": "https://tribuneonlineng.com/why-i-started-my-own-company-adegoke/",
+        "description": "Segun Adegoke reflects on the motivation behind establishing his enterprise and pioneering sustainable ventures in Nigeria."
+      },
+      {
+        "id": "pub-02",
+        "number": "02",
+        "outlet": "BUSINESS ELITES AFRICA",
+        "title": "BAAY PROJECTS CELEBRATES 3RD ANNIVERSARY",
+        "url": "https://businesselitesafrica.com/baay-projects-celebrate-3rd-anniversary-md-segun-adegoke-reflects-on-milestones-challenges-and-future-innovations/?v=66e10e9ff65e",
+        "description": "MD Segun Adegoke reflects on milestones, challenges, and future innovations as Baay Projects marks three years of impactful property development."
+      },
+      {
+        "id": "pub-03",
+        "number": "03",
+        "outlet": "BUSINESS ELITES AFRICA",
+        "title": "40 UNDER 40: Setting New Rules in Real Estate and Agriculture",
+        "url": "https://businesselitesafrica.com/40-under-40-segun-adegoke-is-setting-new-rules-in-real-estate-and-agriculture/?v=66e10e9ff65e",
+        "description": "Special feature on Segun Adegoke's disruptive vision redefining standards across real estate and agribusiness."
+      },
+      {
+        "id": "pub-04",
+        "number": "04",
+        "outlet": "F6S",
+        "title": "F6S Executive Profile",
+        "url": "https://www.f6s.com/member/segun-adegoke",
+        "description": "Segun is a social entrepreneur, an advocate of rural community development, sustainable cities via real estate, and a zero-hunger Builder."
+      }
+    ]
+  },
+  "trips": {
+    "pageHeading": "TRIPS",
+    "sectionHeading": "BE HEARD: SEGUN ADEGOKE ON A MISSION OF CHANGE",
+    "engagements": [
+      {
+        "id": "trip-cop29",
+        "year": "2024",
+        "title": "COP 29 Baku, Azerbaijan",
+        "description": "With notable world leaders converging in Baku, Azerbaijan, to discuss global collaboration and the urgency of addressing climate change, over 72,000 delegates from 196 countries gathered to discuss mitigation strategies, adaptation approaches, finance pledges, redemptions, and many others.",
+        "image": "assets/images/cop29-baku.jpg",
+        "tag": "COP29 Baku Azerbaijan"
+      },
+      {
+        "id": "trip-cop28",
+        "year": "2023",
+        "title": "COP 28 UAE",
+        "description": "At COP28’s first thematic session, H.E. Mariam bin Mohammed Almheiri, UAE Minister of Climate Change and Environment, declared this summit a turning point, emphasizing sustainable agriculture and food systems as vital to tackling climate change and shaping a resilient future.",
+        "image": "assets/images/coy18-podium.jpg",
+        "tag": "COP28 UAE"
+      },
+      {
+        "id": "trip-coy18",
+        "year": "2023",
+        "title": "18th UN Climate Change Conference (COY18)",
+        "description": "As a YOUNGO member, this is an opportunity for me to discuss some of our work at @baayagro and @baay projects, network, contribute my quota to some demand papers, and learn more about what others are doing to mitigate climate loss in agriculture and adapt existing cities to the menace of climate change and carbon pollution.",
+        "youngoLink": "https://web.facebook.com/@youngo.unfccc/?__cft__[0]=AZXQWPCj4Of9NzF4HGmPavkx4aejz6f9bnE-Qj-iH55M_IJ_tdTEQOe3BSOSv1QSj3ze8TqfvbK5WMwdsxpqd_8E8MwZMqLD1pyswNkVmjYUO__5ae-BmooI8_Xjlc_k0eYNsKNvv3TLG9o8TZzFOLnctr_gC3vqqk_c3AZWEKGv3g&__tn__=-]K-R",
+        "image": "assets/images/coy18-podium.jpg",
+        "tag": "COY18 UAE 2023"
+      },
+      {
+        "id": "trip-pms",
+        "year": "",
+        "title": "Professional Mastery Symposium at the University of Lagos",
+        "description": "",
+        "image": "assets/images/pms-unilag.jpg",
+        "tag": "Professional Mastery Symposium at the University of Lagos"
+      },
+      {
+        "id": "trip-naba",
+        "year": "",
+        "title": "Norwegian-African Business Association (NABA)",
+        "description": "",
+        "image": "assets/images/portrait-hero.jpg",
+        "tag": "Norwegian-African Business Association (NABA)"
+      },
+      {
+        "id": "trip-europe",
+        "year": "",
+        "title": "EUROPE",
+        "description": "",
+        "image": "assets/images/europe-grand-hotel.jpg",
+        "tag": "EUROPE"
+      }
+    ],
+    "additionalLabels": [
+      "Lord’s Gin Achievers Award – 6TH EDITION",
+      "COY18 UAE 2023",
+      "COP28 UAE",
+      "COP29 Baku Azerbaijan",
+      "EUROPE",
+      "Professional Mastery Symposium at the University of Lagos",
+      "Norwegian-African Business Association (NABA)"
+    ],
+    "firstSequence": [
+      {"seq": 1, "caption": "No Caption", "image": "assets/images/cop29-baku.jpg"},
+      {"seq": 2, "caption": "COY18 UAE 2023", "image": "assets/images/coy18-podium.jpg"},
+      {"seq": 3, "caption": "SEGUN ADEGOKE BABATUNDE - CEO BAAY PROJECTS", "image": "assets/images/800_1013-819x1024.jpg"},
+      {"seq": 4, "caption": "SEGUN ADEGOKE BABATUNDE", "image": "assets/images/portrait-hero.jpg"},
+      {"seq": 5, "caption": "EUROPE", "image": "assets/images/europe-grand-hotel.jpg"},
+      {"seq": 6, "caption": "Norwegian-African Business Association (NABA)", "image": "assets/images/portrait-executive.webp"},
+      {"seq": 7, "caption": "Segun Adegoke CEO OF BAAYPROJECTS", "image": "assets/images/segun-adegoke-ceo.jpg"}
+    ],
+    "secondSequence": [
+      {"seq": 1, "caption": "No Caption", "image": "assets/images/cop29-baku.jpg"},
+      {"seq": 2, "caption": "COY18 UAE 2023", "image": "assets/images/coy18-podium.jpg"},
+      {"seq": 3, "caption": "SEGUN ADEGOKE BABATUNDE - CEO BAAY PROJECTS", "image": "assets/images/800_1013-819x1024.jpg"},
+      {"seq": 4, "caption": "SEGUN ADEGOKE BABATUNDE", "image": "assets/images/portrait-hero.jpg"},
+      {"seq": 5, "caption": "EUROPE", "image": "assets/images/europe-grand-hotel.jpg"},
+      {"seq": 6, "caption": "Norwegian-African Business Association (NABA)", "image": "assets/images/portrait-executive.webp"},
+      {"seq": 7, "caption": "Segun Adegoke CEO OF BAAYPROJECTS", "image": "assets/images/segun-adegoke-ceo.jpg"},
+      {"seq": 8, "caption": "COP28 UAE", "image": "assets/images/coy18-podium.jpg"},
+      {"seq": 9, "caption": "Professional Mastery Symposium at the University of Lagos", "image": "assets/images/pms-unilag.jpg"},
+      {"seq": 10, "caption": "Norwegian-African Business Association (NABA)", "image": "assets/images/portrait-hero.jpg"},
+      {"seq": 11, "caption": "Lord’s Gin Achievers Award – 6TH EDITION", "image": "assets/images/business-elites-magazine.jpg"},
+      {"seq": 12, "caption": "COP29 Baku Azerbaijan", "image": "assets/images/cop29-baku.jpg"},
+      {"seq": 13, "caption": "SEGUN ADEGOKE BABATUNDE - CEO BAAY PROJECTS", "image": "assets/images/segun-adegoke-ceo.jpg"}
+    ],
+    "repeatedNumberedEntries": [
+      {"seq": 1, "caption": "No Caption", "image": "assets/images/cop29-baku.jpg"},
+      {"seq": 2, "caption": "COY18 UAE 2023", "image": "assets/images/coy18-podium.jpg"},
+      {"seq": 3, "caption": "SEGUN ADEGOKE BABATUNDE - CEO BAAY PROJECTS", "image": "assets/images/800_1013-819x1024.jpg"},
+      {"seq": 4, "caption": "SEGUN ADEGOKE BABATUNDE", "image": "assets/images/portrait-hero.jpg"},
+      {"seq": 5, "caption": "EUROPE", "image": "assets/images/europe-grand-hotel.jpg"},
+      {"seq": 6, "caption": "Norwegian-African Business Association (NABA)", "image": "assets/images/portrait-executive.webp"},
+      {"seq": 7, "caption": "Segun Adegoke CEO OF BAAYPROJECTS", "image": "assets/images/segun-adegoke-ceo.jpg"}
+    ]
+  },
+  "projects": {
+    "pageHeading": "Upcoming Events/Projects",
+    "items": [
+      {
+        "id": "pacific-apartment",
+        "title": "PACIFIC APARTMENT",
+        "description": "The Pacific Apartment is a 24-unit mixed-apartment development located in Atlantic View Estate, Lekki Phase 2. We are excited to announce its groundbreaking ceremony. The project is anticipated to last 18 months.",
+        "dateDayMonth": "07/ 11",
+        "dateYear": "2024",
+        "image": "assets/images/pacific-apartments.webp",
+        "remoteImage": "https://segunadegoke.com/wp-content/uploads/2024/12/pacific-apartments_3-1024x576.jpg",
+        "location": "Atlantic View Estate, Lekki Phase 2",
+        "units": "24-unit mixed-apartment development",
+        "duration": "18 months",
+        "milestone": "Groundbreaking ceremony"
+      }
+    ]
+  },
+  "contact": {
+    "pageHeading": "Contact",
+    "sectionHeading": "Send a Message",
+    "note": "For keynote speaking invitations, high-level public-private partnership inquiries, strategic investment opportunities, or media engagements, please send a message using the form below."
+  }
+}
